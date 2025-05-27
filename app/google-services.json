@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442650788909",
+    "project_id": "restaurantadviser-275bc",
+    "storage_bucket": "restaurantadviser-275bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442650788909:android:83b0e52c00d3377db224a4",
+        "android_client_info": {
+          "package_name": "com.example.restaurantadviser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGJPBTOgt7aoEdt14I0jqVvCuSz8ky_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
